@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+scikit-learn
+boruta
+opencv-python
+matplotlib
+Pillow
+transformers
+torchcam
+streamlit
