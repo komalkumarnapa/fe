@@ -14,7 +14,7 @@
 
 1. Clone the repository  
 ```
-git clone https://github.com/komalkumarnapa/AutoVisionX.git
+git clone https://github.com/komalkumarnapa/fe.git
 cd AutoVisionX
 ```
 
