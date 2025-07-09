@@ -15,7 +15,7 @@
 1. Clone the repository  
 ```
 git clone https://github.com/komalkumarnapa/fe.git
-cd AutoVisionX
+cd fe
 ```
 
 2. Install dependencies  
